@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cosgroma
+- 👋 Hi, I’m @cosgromae
 - 👀 I’m interested in GPS and SDR
 - 🌱 I’m currently learning many things, mostly defense domain related.
 - 💞️ I’m looking to collaborate on much.
